@@ -29,11 +29,5 @@
     <ClCompile Include="GerenteDeAhorros.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Test2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Test3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
