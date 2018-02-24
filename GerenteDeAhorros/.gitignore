@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GerenteDeAhorros/v14
+/.vs/GerenteDeAhorros/v15/ipch
+/Debug
+/.vs/GerenteDeAhorros/v15
+/GerenteDeAhorros
+/_UpgradeReport_Files
