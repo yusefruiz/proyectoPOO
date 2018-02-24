@@ -1,17 +1,15 @@
-﻿  stdafx.cpp
+﻿  GerenteDeAhorros.cpp
 c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
-  GerenteDeAhorros.cpp
-c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
-GerenteDeAhorros.cpp(571): warning C4101: 'connStrOut': unreferenced local variable
-c:\users\danielb\documents\visual studio 2017\projects\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(150): warning C4715: 'menuGruposDeAhorro': not all control paths return a value
-c:\users\danielb\documents\visual studio 2017\projects\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(204): warning C4715: 'menuSocios': not all control paths return a value
-c:\users\danielb\documents\visual studio 2017\projects\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(301): warning C4715: 'menuPlanesDeAhorro': not all control paths return a value
-c:\users\danielb\documents\visual studio 2017\projects\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(347): warning C4715: 'menuRegistrarAhorro': not all control paths return a value
-c:\users\danielb\documents\visual studio 2017\projects\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(255): warning C4715: 'menuAhorro': not all control paths return a value
-c:\users\danielb\documents\visual studio 2017\projects\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(393): warning C4715: 'menuGeneracionDeEstadosDeCuenta': not all control paths return a value
-c:\users\danielb\documents\visual studio 2017\projects\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(96): warning C4715: 'menuPrincipal': not all control paths return a value
-c:\users\danielb\documents\visual studio 2017\projects\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(444): warning C4715: 'menuCredito': not all control paths return a value
-  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
-c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+GerenteDeAhorros.cpp(271): warning C4101: 'Ahorro': unreferenced local variable
+GerenteDeAhorros.cpp(371): warning C4101: 'Ahorro': unreferenced local variable
+GerenteDeAhorros.cpp(702): warning C4101: 'connStrOut': unreferenced local variable
+c:\users\danielb\documents\github\proyectopoo\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(413): warning C4715: 'menuRegistrarAhorro': not all control paths return a value
+c:\users\danielb\documents\github\proyectopoo\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(459): warning C4715: 'menuGeneracionDeEstadosDeCuenta': not all control paths return a value
+c:\users\danielb\documents\github\proyectopoo\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(211): warning C4715: 'menuGruposDeAhorro': not all control paths return a value
+c:\users\danielb\documents\github\proyectopoo\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(266): warning C4715: 'menuSocios': not all control paths return a value
+c:\users\danielb\documents\github\proyectopoo\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(366): warning C4715: 'menuPlanesDeAhorro': not all control paths return a value
+c:\users\danielb\documents\github\proyectopoo\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(319): warning C4715: 'menuAhorro': not all control paths return a value
+c:\users\danielb\documents\github\proyectopoo\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(156): warning C4715: 'menuPrincipal': not all control paths return a value
+c:\users\danielb\documents\github\proyectopoo\gerentedeahorros\gerentedeahorros\gerentedeahorros.cpp(510): warning C4715: 'menuCredito': not all control paths return a value
   GerenteDeAhorros.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
-  GerenteDeAhorros.vcxproj -> C:\Users\danielb\documents\visual studio 2017\Projects\GerenteDeAhorros\Debug\GerenteDeAhorros.exe
+  GerenteDeAhorros.vcxproj -> C:\Users\danielb\Documents\GitHub\proyectoPOO\GerenteDeAhorros\Debug\GerenteDeAhorros.exe
